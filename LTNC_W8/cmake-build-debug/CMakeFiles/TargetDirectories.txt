@@ -1,0 +1,3 @@
+D:/Duc codes again/BTVN_Hacker/LTNC_W8/cmake-build-debug/CMakeFiles/LTNC_W8.dir
+D:/Duc codes again/BTVN_Hacker/LTNC_W8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Duc codes again/BTVN_Hacker/LTNC_W8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
